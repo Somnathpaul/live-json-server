@@ -39,7 +39,7 @@ ___
    > https://www.mongodb.com/download-center/community
    ___
 
-* #### Show me diffirent API callS?
+* #### Show me diffirent API calls?
    ##### Returns ten users profile
   >http://localhost:8282/api/users/ten
   
